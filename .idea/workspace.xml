@@ -2,97 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f455801d-a986-4ec4-8797-a1a18ccba2cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/Location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/Phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/QR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Contact/fixed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/Eye(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/Eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/essay(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/essay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/News/recommend.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/flow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Service/g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/--About-Us--.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/1h-15682.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/Eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/Like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/PC.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/User-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/caia412-26813.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/cloud-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/is09aa5y3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/about/plp788m1040249.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/better(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/better(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/better(3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/become/better(4).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/--Case-Center--.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/case(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/case.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/show(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/show(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/show(3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cases/show(4).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/--Website-Construction--.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/alipay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/formwork.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/tip(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/tip(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/tip(3).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/touch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/construction/web.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/introduction/--Team-Introduction--.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/introduction/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/links/wmap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/backups.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/performance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/safety.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/tbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/wave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/operate/week.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/and(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/and(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/app(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/app(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/chat(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/chat(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/h5(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/service-imgs/h5(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web-maker/case(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web-maker/case(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web-maker/case.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web-maker/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/web-maker/site.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/yiyun/header(server).php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/yiyun/.gitignore" afterPath="$PROJECT_DIR$/wp-content/themes/yiyun/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,16 +40,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -224,11 +125,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Service.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Service.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/Service.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
               <caret line="448" column="23" lean-forward="false" selection-start-line="448" selection-start-column="23" selection-end-line="448" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -330,6 +241,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/yiyun/contact.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/yiyun/new.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/yiyun/Service.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/yiyun/.gitignore" />
       </list>
     </option>
   </component>
@@ -452,18 +364,18 @@
       <workItem from="1507770302980" duration="17607000" />
       <workItem from="1507855809907" duration="27565000" />
       <workItem from="1507942032462" duration="19595000" />
-      <workItem from="1508117203645" duration="4863000" />
+      <workItem from="1508117203645" duration="6201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168670000" />
+    <option name="totallyTimeSpent" value="170008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2779456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22205438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -514,7 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/images/cases/矩形-20.png" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/images/cases/矩形-26.png" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/images/cases/矩形-27.png" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/images/cases/触碰状态.png" />
@@ -729,6 +640,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="448" column="23" lean-forward="false" selection-start-line="448" selection-start-column="23" selection-end-line="448" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/yiyun/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
