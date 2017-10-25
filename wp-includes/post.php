@@ -2186,6 +2186,8 @@ function _count_posts_cache_key( $type = 'post', $perm = '' ) {
  * @return object Number of posts for each status.
  */
 function wp_count_posts( $type = 'post', $perm = '' ) {
+    
+    echo $type."-------------------------------";
 	global $wpdb;
 
 	if ( ! post_type_exists( $type ) )

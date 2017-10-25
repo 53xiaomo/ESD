@@ -11,14 +11,14 @@ get_header(); ?>
         .content {
             position: relative;
             height: auto;
-            width: 1920px;
+            width: 100%;
         }
 
         #company-show {
             line-height: 480px;
             text-align: center;
             height: 480px;
-            width: 1920px;
+            width: 100%;
             background: url("images/cases/background.png") no-repeat;
             background-size: contain;
         }
@@ -46,7 +46,7 @@ get_header(); ?>
 
         .icon {
             height: 118px;
-            width: 1920px;
+            width: 100%;
             background: url("images/about/cloud-icon.png") no-repeat;
             background-size: cover;
         }

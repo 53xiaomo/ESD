@@ -45,12 +45,12 @@
 
         header {
             margin: 0 auto;
-            width: 1920px;
-
+            width: 100%;
+            min-width: 1300px;
         }
 
-         .logo {
-            margin: 15px 295px 15px 322px;
+        .logo {
+            margin: 15px 16% 15px 17%;
             display: inline-block;
             height: 50px;
         }

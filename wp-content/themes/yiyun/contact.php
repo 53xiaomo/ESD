@@ -5,12 +5,12 @@ get_header(); ?>
         .content {
             position: relative;
             height: auto;
-            width: 1920px;
+            width: 100%;
         }
 
         .content1 {
             height: 480px;
-            width: 1920px;
+            width: 100%;
             background: url("images/background.png") no-repeat;
             background-size: cover;
         }
@@ -63,7 +63,7 @@ get_header(); ?>
 
         table {
             border-collapse: collapse;
-            width: 704px;
+            width: 873px;
         }
 
         table, th, td {
@@ -88,7 +88,7 @@ get_header(); ?>
 
         .fixation {
             display: inline-block;
-            margin-left: 70px;
+            margin-left: 129.75px;
         }
 
         .fixation li {
@@ -99,7 +99,7 @@ get_header(); ?>
 
         .mobile {
             display: inline-block;
-            margin-left: 80px;
+            margin-left: 129.75px;
         }
 
         .mobile li {
@@ -127,7 +127,7 @@ get_header(); ?>
 
         .right{
             width: 247px;
-            height: 645px;
+            height: 705px;
             display: inline;
             float: right;
         }
@@ -148,10 +148,18 @@ get_header(); ?>
 
         .icon {
             height: 117px;
-            width: 1920px;
+            width: 100%;
             background: url("images/about/cloud-icon.png") no-repeat;
             background-size: cover;
             position: relative;
+        }
+    </style>
+
+    <style type="text/css">
+        #map {
+            width: 873px;
+            height: 434px;
+            display: block;
         }
     </style>
 <body>

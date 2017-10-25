@@ -11,12 +11,12 @@ get_header()?>
         .content {
             position: relative;
             height: auto;
-            width: 1920px;
+            width: 100%;
         }
 
         .content1 {
             height: 480px;
-            width: 1920px;
+            width: 100%;
             background: url("images/background.png") no-repeat;
             background-size: cover;
         }
@@ -95,7 +95,7 @@ get_header()?>
 
         .icon {
             height: 118px;
-            width: 1920px;
+            width: 100%;
             background: url("images/about/cloud-icon.png") no-repeat;
             background-size: cover;
             margin-top: 2px;

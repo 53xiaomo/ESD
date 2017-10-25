@@ -1,5 +1,4 @@
 <?php
-
 /*Template Name: index*/
 get_header(); ?>
 <style>
@@ -14,23 +13,24 @@ get_header(); ?>
     .content {
         position: relative;
         height: auto;
-        width: 1920px;
+        width: 100%;
+        min-width: 1356px;
     }
 
     #company-show {
         height: 480px;
-        width: 1920px;
+        width: 100%;
         background-color: #f7f7f7;
     }
 
     #service {
         height: 440px;
-        width: 1920px;
+        width: 100%;
         text-align: center;
     }
 
     #service .service-introduction {
-        width: 1920px;
+        width: 100%;
     }
 
     #service .service-introduction li {
@@ -191,7 +191,7 @@ get_header(); ?>
 
     #web-maker {
         height: 670px;
-        width: 1920px;
+        width: 100%;
         position: relative;
     }
 
@@ -314,14 +314,14 @@ get_header(); ?>
     #operate-service {
         padding-top: 70px;
         background: url("images/operate/wave.png") no-repeat bottom;
-        width: 1920px;
+        width: 100%;
         height: 780px;
         text-align: center;
 
     }
 
     .operate-content {
-        width: 1920px;
+        width: 100%;
         height: 500px;
         margin-top: 70px;
         display:inline;
@@ -330,14 +330,15 @@ get_header(); ?>
     .ON {
         right: 10px;
         width: 255px;
-        margin-left: 200px;
+        margin-left: 62%;
         margin-top: 95px;
     }
+
     .TW {
         right: 100px;
         width: 255px;
         margin-top: 10px;
-        margin-left: 10px;
+        margin-left: 30%;
     }
 
     .TH {
@@ -345,7 +346,7 @@ get_header(); ?>
         height: 130px;
         text-align: left;
         line-height: 20px;
-        margin-left: 35px;
+        margin-left: 35%;
         position:absolute;
         margin-top: -20px;
         width: 434px;
@@ -354,19 +355,19 @@ get_header(); ?>
     .TO {
         left: 10px;
         width: 255px;
-        margin-left: -75px;
+        margin-left: -117px;
     }
 
     .BO {
         left: 100px;
         width: 255px;
-        margin-left: 150px;
+        margin-left: 108px;
         margin-top: -30px;
     }
 
     #links {
         height: 500px;
-        width: 1920px;
+        width: 100%;
         background: url("images/links/wmap.png") no-repeat center;
         -webkit-background-size: cover;
         background-size: cover;
@@ -450,14 +451,14 @@ get_header(); ?>
                         </div>
                         <div class="blOck">
                             <div class="include">
-                            <div class="big">
-                                <img src="images/cases/show(3).png">
-                            </div>
-                            <div class="small">
-                                <img src="images/cases/show(4).png">
-                            </div><br>
-                            <span>- 指南针股票 -</span><br>
-                            <span>指南针股票是指南针科技精心打造的一款金融股<br>票APP开发平台，在股票软件市场诸多好评的手<br>机炒股软件（金融/理财/证券/投资）...</span>
+                                <div class="big">
+                                    <img src="images/cases/show(3).png">
+                                </div>
+                                <div class="small">
+                                    <img src="images/cases/show(4).png">
+                                </div><br>
+                                <span>- 指南针股票 -</span><br>
+                                <span>指南针股票是指南针科技精心打造的一款金融股<br>票APP开发平台，在股票软件市场诸多好评的手<br>机炒股软件（金融/理财/证券/投资）...</span>
                             </div>
                         </div>
                     </div>
@@ -695,7 +696,7 @@ get_header(); ?>
         <span>- OPERATE -</span>
         <br>
         <div class="operate-content">
-            <div class="col-lg-4 col-md-4 col-sm-4" style="width: 455px;height: 500px;padding: 0;float:left;margin-left: 275px">
+            <div class="col-lg-4 col-md-4 col-sm-4" style="width: 34%;height: 500px;padding: 0;float:left">
                 <div class="ON">
                     <ul>
                         <li><img src="images/operate/performance.png"></li>
@@ -711,15 +712,15 @@ get_header(); ?>
                 <br>
                 <div class="TH">
                     <ul>
-                        <li><span style="position: relative;top: 30px;left: 40px;font-size: 10px">专业且详尽的咨询指导、更深入细致的安全审计、更高防护<br>等级的加固技术、覆盖更广泛的数据监测四项专业服务,融<br>合百度大数据、人工智能和移动客户端等多方面的...</span></li>
+                        <li><span style="position: relative;top: 30px;left: 2.5%;font-size: 10px">专业且详尽的咨询指导、更深入细致的安全审计、更高防护<br>等级的加固技术、覆盖更广泛的数据监测四项专业服务，融<br>合百度大数据、人工智能和移动客户端等多方面的...</span></li>
                         <li style="margin-top: 25px;margin-left: 370px;"><img src="images/operate/play.png"></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4" style="width: 475px;height: 577px;float:left;margin-top: 55px">
+            <div class="col-lg-4 col-md-4 col-sm-4" style="width: 34%;height: 577px;float:left;margin-top: 55px">
                 <img src="images/operate/phone.png">
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4" style="top: 130px;width: 560px;height: 360px;padding: 0;float:right;margin-top: 5px;margin-right: 110px;">
+            <div class="col-lg-4 col-md-4 col-sm-4" style="top: 130px;width: 32%;height: 360px;padding: 0;float:right;margin-top: 5px">
                 <div class="TO">
                     <ul>
                         <li><img src="images/operate/backups.png"></li>

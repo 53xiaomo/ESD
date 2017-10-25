@@ -5,6 +5,14 @@
       <webServer id="f5b51fd7-6c31-48ba-b46e-749216a4025e" name="wordpress" url="http://localhost:8000">
         <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/../php" accessType="MOUNT" />
       </webServer>
+      <webServer id="7880e763-9906-46fa-afc6-018a6043b2de" name="ec" url="http://west3453.gotoftp3.com/yiyun/wordpress/">
+        <fileTransfer host="west3453.gotoftp3.com" port="21" rootFolder="/west3453/wwwroot/yiyun/wordpress">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>

@@ -22,7 +22,8 @@
         footer {
             color: #9d9d9d;
             height: 280px;
-            width: 1920px;
+            width: 100%;
+            min-width: 1366px;
             background-color: #393939;
         }
 
@@ -36,20 +37,12 @@
             width: 512px;
             font-weight: bold;
             display: inline-block;
-            margin-left: 450px;
+            margin-left: 19.5%;
         }
 
-        .other{
-            padding-top: 41px;
-            height: 155px;
-            width: 512px;
-            font-weight: bold;
-            display: inline-block;
-            margin-left: 255px;
-        }
         #our-company ul {
             display: inline-block;
-            margin-left: 71px;
+            margin-left: 19%;
         }
 
         #our-company ul li:first-child {
@@ -67,7 +60,7 @@
             width: 178px;
             height: 49px;
             display: inline-block;
-            margin: 10px 10px 0 140px;
+            margin: 10px 10px 0 11.5%;
         }
 
         .TU img {
@@ -126,7 +119,7 @@
         <ul class="footer-links">
             <li>关于逸云</li>
             <li>服务协议</li>
-            <li>隐私政策</li>
+            <li>私隐政策</li>
             <li>逸云招聘</li>
             <li>逸云学堂</li>
             <li>客服中心</li>
@@ -134,7 +127,7 @@
             <li>亲子鉴定</li>
             <li>友情赞助</li>
         </ul>
-        <span>Copyright © 2014 - 2015 All right Reserved.逸云科技 © 版权所有</span><br>
+        <span>Copyright &copy; 2014 - 2015 All right Reserved.逸云科技 &copy; 版权所有</span><br>
         <span>工信部备案号 粤ICP备14056574号-1 𠃎 http://www.easecloud.cn</span>
     </div>
 </div>
