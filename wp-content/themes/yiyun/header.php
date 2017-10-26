@@ -41,6 +41,7 @@
             padding: 0;
             margin: 0;
             font-family: 方正兰亭刊黑_GBK;
+            text-decoration: none;
         }
 
         header {
@@ -59,6 +60,9 @@
             display: inline-flex;
             position: absolute;
             margin-top: 15px;
+            width: 701px;
+            white-space: nowrap;
+            overflow: hidden;
         }
 
         .nav li {

@@ -72,7 +72,7 @@ get_header()?>
 
         .content .content2-2 .con {
             display: inline-block;
-            margin-left: 189px;
+            margin-left: 8%;
             padding: 28px 16px 26px 16px;
         }
 
@@ -139,7 +139,7 @@ get_header()?>
         </div>
         <div class="content2-2 container-fluid">
             <div class="heading">
-                <span style="font-size: 14px;font-weight: bold;text-align: center;">- 佛山市逸云计算机科技有限公司 -</span>
+                <span style="font-size: 14px;font-weight: bold;text-align: center;">-&nbsp;&nbsp;&nbsp;&nbsp;佛山市逸云计算机科技有限公司&nbsp;&nbsp;&nbsp;&nbsp;-</span>
             </div>
             <div class="con">
                 <span style="font-size: 11px;text-align: left">逸云科技专注于互联网领域的手机APP研发，是一家领先的致力于一站式整体APP开发解决方案。始终致力于企业移动APP开发整体解决方案的产品策划、<br>设计咨询、定制研发等解决客户的应用需求，帮助企业级客户迅速布局移动互联网。凭借五年的项目经验，两百多个成功案例，坚持以用户体验为标准，<br>以客户满意为原则，让产品与理念深度完美结合。<br>卓尔不凡•悠逸云端&nbsp;/&nbsp;逸云科技坚持不懈创新，置身于最先进的技术潮流，携您进入互联网时代的云端，为您提供更轻松的工作环境和更优质的生活体验。</span>

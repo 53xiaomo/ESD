@@ -60,6 +60,7 @@ get_header(); ?>
             top: 0;
             right: 0;
             margin-right: 79px;
+            padding-top: 53px;
         }
 
         .num {

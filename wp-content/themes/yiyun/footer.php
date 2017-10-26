@@ -14,6 +14,10 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <style>
+        * {
+            text-decoration: none;
+        }
+
         li {
 
             list-style: none;
